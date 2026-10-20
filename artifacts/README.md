@@ -43,7 +43,7 @@ Which ecosystems to set up in each Wildlife Reserve, and in what order, which th
 ### Closing a gap on the reserve page (screenshots first)
 
 1. A player who has the game takes the screenshots the gap names: a reserve's Ecosystems panel (Ecosystem Brush list, with one ecosystem selected to show its Area requirement), an animal's Release Group requirements screen, or a prey animal's Release Group screen with its Roles shown.
-2. The player gives them to their Hintforge companion (reader or builder session). The companion transcribes them into the tables under "Fill template" at the end of `animals/reserve_ecosystems.md` (Table A1 or A2 for a reserve's Ecosystems panel, Table B for release requirements, Table C for role fill lists), with a metadata line `source: player screenshot <date> · capture: screenshot` under each table.
+2. The player gives them to their Hintforge companion (reader or builder session). The companion transcribes them into the tables under "Fill template" at the end of `animals/reserve_ecosystems.md` (Table A1 or A2 for a reserve's Ecosystems panel, Table B for release requirements, Table C for role fill lists), with a metadata line `_source: player screenshot <date> · capture: manual_paste` (plus the confidence, tier and spoiler fields shown in the template) under each table.
 3. The companion reruns the two scripts below. The matching "Not documented yet" notes close and the screenshot's values show, marked as from a player's screenshot.
 
 Fallback, no companion: type the same rows into those tables by hand (ecosystem and animal names exactly as in the guide's tables; one row per thing seen; the capture date in the last column), then rerun the scripts.

@@ -180,18 +180,18 @@ Setup orders use two numbers per ecosystem: "rows" = nature-object rows plus one
 3. Release each species as soon as one ecosystem it names is Established.
 4. Prerequisites first: before a species with a "Flourishing X" row, X is established and its roles are filled by earlier releases (roles read from the role-fill lists, restricted to the reserve's own list).
 5. Predators last: a species with a prey-role requirement is released after the herbivore waves. Which species supply Medium Prey and Small Prey was not read, so that role is assumed to be satisfied by the herbivore waves (unverified).
-_source: model analysis, doctor Branch C 2026-10-19 [rules applied to the tables in this file; no source states an order] · capture: browser_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Derived -- from requirements in this file; no source states an order]`
+_source: model analysis, doctor Branch C 2026-10-19 [rules applied to the tables in this file; no source states an order] · capture: manual_paste · confidence: low · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Derived -- from requirements in this file; no source states an order]`
 
 ### Great Rift Valley Reserve (Grassland biome)
 
 Releasable list (27 per `reserve_releases.md`): Aardvark, African Leopard, African Savannah Elephant, African Tigerfish, African Wild Dog, Black Rhinoceros, Black Wildebeest, Blue Wildebeest, Blunthead Cichlid, Cape Buffalo, Common Hippopotamus, Common Warthog, Gemsbok, Greater Flamingo, Lion, Masai Giraffe, Meerkat, Nile Monitor, Nyala, Plains Zebra, Reticulated Giraffe, Sable Antelope, Secretarybird, Shoebill, Spotted Hyena, Springbok, White-Backed Vulture. Each of the 27 appears in at least one Grassland-biome ecosystem's "species that list it".
-_source: doctor Branch C 2026-10-19 [reserve list from https://insider-gaming.com/planet-zoo-2-wildlife-reserves-releasable-animals/ via `reserve_releases.md`; https://games.gg/planet-zoo-2/guides/planet-zoo-2-all-wildlife-reserves-and-releasable-animals/ lists 26 without a 27th named; ecosystem listings from the Wikily pages above] · capture: browser_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Contradicted across sources -- see notes]`
+_source: doctor Branch C 2026-10-19 [reserve list from https://insider-gaming.com/planet-zoo-2-wildlife-reserves-releasable-animals/ via `reserve_releases.md`; https://games.gg/planet-zoo-2/guides/planet-zoo-2-all-wildlife-reserves-and-releasable-animals/ lists 26 without a 27th named; ecosystem listings from the Wikily pages above] · capture: browser_fetch · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_ `[Contradicted across sources -- see notes]`
 
 Count conflict: games.gg's list for this reserve has 26 names (its own summary table says 27) and includes Meerkat; the insider-gaming list used in `reserve_releases.md` has 27. Treated as 27 here; the species-level mapping above is unaffected.
-_source: doctor Branch C 2026-10-19 [https://games.gg/planet-zoo-2/guides/planet-zoo-2-all-wildlife-reserves-and-releasable-animals/; https://insider-gaming.com/planet-zoo-2-wildlife-reserves-releasable-animals/] · capture: web_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Contradicted across sources -- see notes]`
+_source: doctor Branch C 2026-10-19 [https://games.gg/planet-zoo-2/guides/planet-zoo-2-all-wildlife-reserves-and-releasable-animals/; https://insider-gaming.com/planet-zoo-2-wildlife-reserves-releasable-animals/] · capture: web_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_ `[Contradicted across sources -- see notes]`
 
 Smallest ecosystem set for the whole list (lower bound): **Grassland, Riverine, Dense Forest, Savannah, Swamp** (5). Swamp alone serves African Tigerfish, Blunthead Cichlid, Common Hippopotamus and Shoebill; Dense Forest alone serves Cape Buffalo, Masai Giraffe, Nyala and Reticulated Giraffe; Grassland alone serves Black Rhinoceros, both wildebeests and Secretarybird; Savannah alone serves Gemsbok, Meerkat and White-Backed Vulture; the Lion's two rows force Savannah (Flourishing) plus Riverine or Rocky Hills. Fewer than 5 cannot cover the list.
-_source: model analysis, doctor Branch C 2026-10-19 [ecosystem tables and species rows in this file] · capture: browser_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Derived -- from requirements in this file; no source states an order]`
+_source: model analysis, doctor Branch C 2026-10-19 [ecosystem tables and species rows in this file] · capture: browser_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_ `[Derived -- from requirements in this file; no source states an order]`
 
 **Suggested setup order, Great Rift Valley Reserve** (confidence low):
 1. Grassland (2 rows). Release Black Rhinoceros, Black Wildebeest, Blue Wildebeest, Plains Zebra, Springbok, Common Warthog, Sable Antelope, Secretarybird.
@@ -202,7 +202,7 @@ _source: model analysis, doctor Branch C 2026-10-19 [ecosystem tables and specie
 6. Make Savannah Flourishing: its roles are Scavengers (Secretarybird, Nile Monitor, White-Backed Vulture are already released), Low Browsers (Black Rhinoceros, Cape Buffalo, Sable Antelope) and Terrestrial Seed Dispersers (many already released).
 7. Make Dense Forest Flourishing: High Browsers (African Savannah Elephant, both giraffes) and Terrestrial Seed Dispersers.
 8. Predators last: Spotted Hyena (Sandy Plain or Riverine, so Riverine from step 2 serves), African Wild Dog (Savannah plus Riverine), Lion (Flourishing Savannah plus Riverine), African Leopard (Flourishing Dense Forest plus Riverine). All need Medium Prey filled.
-_source: model analysis, doctor Branch C 2026-10-19 [rules 1-5 above applied to this reserve] · capture: browser_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 1 · category: mainline · spoiler: progression_ `[Derived -- from requirements in this file; no source states an order]`
+_source: model analysis, doctor Branch C 2026-10-19 [rules 1-5 above applied to this reserve] · capture: browser_fetch · confidence: low · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none_ `[Derived -- from requirements in this file; no source states an order]`
 
 ### Scottish Highlands (Taiga biome)
 
@@ -305,7 +305,7 @@ Use this section when a player who owns the game gives you screenshots. It is th
 **Claim-format metadata.** Under each table that has rows, add one line in this shape (set the date; the puzzle-tier is 1 for Table A1, 2 for Table A2, 0 for Tables B and C):
 
 ```
-_source: player screenshot 2026-11-02 · capture: screenshot · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none
+_source: player screenshot 2026-11-02 · capture: manual_paste · confidence: medium · enemy-tier: 0 · puzzle-tier: 0 · category: mainline · spoiler: none
 ```
 
 Example rows (do not copy; they are placeholders):

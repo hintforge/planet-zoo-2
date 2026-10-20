@@ -95,6 +95,24 @@ Corpus claims written from the P1 result cite `[ref N]` using the P1 numbering b
 
 Read and discarded at P2 (wrong game): https://cms.zaonce.net/en-GB/node/628, https://cms.zaonce.net/en-GB/node/2889, https://one.planetzoogame.com/help-centre?version=pc (Planet Zoo 2019); https://steamcommunity.com/app/1623730/discussions/0/4139439021822456045 (Palworld).
 
+## Doctor Branch C references (read for `animals/accreditation.md`, `animals/reserve_ecosystems.md`, `items/research_tree.md`; these claims cite URLs, not numbers)
+Captured 2026-10-19 unless noted; English unless noted. Added 2026-10-19 by the source-register repair; the URLs are copied from the three files' `_source:` lines.
+- https://gamerant.com/accreditation-planet-zoo-2/ (editorial-en; Career and Franchise tier tables)
+- https://allthings.how/planet-zoo-2-how-to-unlock-all-animals-and-accreditation-tiers/ (editorial-en; Franchise tiers, Deluxe count)
+- https://insider-gaming.com/planet-zoo-2-all-animals-complete-zoopedia/ (editorial-en; Deluxe column, a pre-launch list of 121 species)
+- https://gamerblurb.com/guides/planet-zoo-2-accreditation-guide (editorial-en; Franchise counts)
+- https://www.whisperofthehouse.com/planet-zoo-2/franchise-accreditation (editorial-en; Franchise counts)
+- https://planetzoo.net/accreditation/ (editorial-en; Franchise counts)
+- https://games.gg/planet-zoo-2/guides/planet-zoo-2-franchise-mode-accreditation-explained/ (editorial-en; Franchise counts)
+- https://games.gg/planet-zoo-2/guides/planet-zoo-2-all-wildlife-reserves-and-releasable-animals/ (editorial-en; biome and release list per reserve)
+- https://www.planetzoogame.com/en-US/2/player-guides/wildlife-reserves (publisher guide; release groups take animals from Animal Storage)
+- https://primagames.com/gaming/planet-zoo-2-flourishing-ecosystem (editorial-en; Flourishing is required for certain Release Groups)
+- https://www.dtgre.com/2026/10/planet-zoo-2-ecosystem-not-established-fix.html (editorial-en; ecosystem "not established" fix)
+- https://wikily.gg/planet-zoo-2/ecosystems and the ecosystem pages under it: closed-canopy-forest, dense-forest, flooded-grassland, forest-swamp, mixed-lowland-forest (community-wiki)
+- https://wikily.gg/planet-zoo-2/release-groups/aardvark (community-wiki; sample release-group page)
+- https://wikily.gg/planet-zoo-2/research/<slug> for the 18 species named in `animals/accreditation.md` plus american-bullfrog and wild-boar, and the topic pages amoebiasis, aquatic-toy-enrichments, disease, education, enrichment, species (community-wiki; research levels and tiers)
+- https://www.sportskeeda.com/esports/planet-zoo-2-research-guide-all-research-types-explained (excerpt only, not read: HTTP 405 to a plain fetch)
+
 ## Page-reference receipts (citation_receipt.py, run 2026-10-19 before move-aside)
 - P1: 55 facts; 53 resolve to a numbered reference (all traceable via the list above); 1 site-named; 1 count-only; 0 direct page URLs; 58 distinct URLs in the file; 37 reference entries.
 - P2: 85 facts; 85 count-only; 0 traceable (the script did not recognize P2's "refs N, N" table cells, and the file's own reference list has 50 entries and 54 distinct URLs); 1 off-list reference kind. The numbered references in the corpus claims above were resolved by hand from P2's per-row "Refs" cells, so the script's 0 traceable understates P2.
