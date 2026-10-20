@@ -84,7 +84,7 @@
   <text class="mono b" x="90" y="718" font-size="13px" text-anchor="middle" fill="var(--primary)">i</text>
   <text class="mono foot" x="118" y="720" font-style="italic">Answers come only from this guide's files -- never guesswork or training data.</text>
 
-  <text class="mono foot" x="78" y="762">github.com/hintforge/<repo></text>
+  <text class="mono foot" x="78" y="762">github.com/hintforge/planet-zoo-2</text>
   <text class="mono foot" x="1422" y="762" text-anchor="end">reads only the files you control</text>
 
 <g transform="translate(1235 92) rotate(5)" opacity="0.78" filter="url(#worn)">
