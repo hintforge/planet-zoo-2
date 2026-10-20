@@ -18,7 +18,7 @@ Planet Zoo 2 came out on 13 October 2026, and the guides and wikis are still cat
 
 ## Spoilers
 
-**You** set two independent dials — enemy warnings (Tier 0–5) and puzzle/decision warnings (Tier 0–3) — both **silent by default**; the guide volunteers nothing until you raise one. Planet Zoo 2 has no enemies, so the real spoiler surface is the Career: later chapters' levels, reserves and objectives stay out of answers until you raise the puzzle dial. There's no save-state reader, so every answer comes from this guide's files.
+The guide volunteers nothing until you raise a dial. Planet Zoo 2 has no enemies, so the real spoiler surface is the Career: later chapters' levels, reserves and objectives stay out of answers until you raise the puzzle dial, and the two pages keep later reserves behind a button.
 
 ## What's inside
 
