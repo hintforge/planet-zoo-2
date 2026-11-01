@@ -63,7 +63,7 @@ Merge repeated URLs with dated evidence retained. Read tools can also be recorde
 - Source: https://www.exophase.com/game/planet-zoo-2-steam/achievements/
 - Block type: cloudflare (HTTP 403, 2026-10-19)
 - What I could glean before the block: nothing beyond the search snippet (39 achievements).
-- Best alternative I did get to: vgtimes.ru Steam list (names), stored in `research_briefs/achievement_stubs.md`.
+- Best alternative I did get to: vgtimes.ru Steam list (names), captured in `achievements.md`.
 
 ### P1 / P2 sources found but not read (2026-10-19)
 Reasons: tool budget, refused at the tool-permission step, timed out, or a duplicate. None of these supplies confirmed facts. Block type for fetch failures: javascript-dependent / access-not-checked unless shown.

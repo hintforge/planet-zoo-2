@@ -3,7 +3,7 @@
 **status:** research-integrated
 **last_reconciled:** 2026-10-19
 
-Corpus-declared extension (not one of the six canonical vector extensions): species care, habitat needs and welfare facts. Per-species files were NOT created: P1 captured the roster and mechanisms but no per-species habitat requirements, so a file per species would be an empty stub (deferred; see `../CHECKPOINT.md` Open threads).
+Corpus-declared extension (not one of the six canonical vector extensions): species care, habitat needs and welfare facts. Per-species files were NOT created: P1 captured the roster and mechanisms but no per-species habitat requirements, so a file per species would be an empty stub (deferred).
 
 | File | Content | Status |
 |---|---|---|
